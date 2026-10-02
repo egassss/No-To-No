@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "6d0f10c8-4247-45bd-86ff-035fd1c90639",
+      "username": "gnandeep",
+      "displayName": "Egass",
+      "password": "$2a$10$P/S3A8I9DgAWUk10EnXcgOeYDD0lovMJgKtPgrWr5DWn7pEJTj1Gy",
+      "avatar": null,
+      "bio": "",
+      "createdAt": 1790396123147,
+      "failedAttempts": 0,
+      "lockUntil": 0,
+      "blockedUsers": [],
+      "followers": [],
+      "following": [],
+      "bookmarks": [],
+      "muted": [],
+      "online": false,
+      "lastSeen": 1790397244250,
+      "settings": {
+        "ghostMode": false,
+        "blurLocation": false,
+        "radiusKm": 25,
+        "mapStyle": "satellite",
+        "unit": "km",
+        "notifications": true,
+        "accentColor": "#00e6a8",
+        "theme": "dark",
+        "pixelMode": false
+      }
+    }
+  ],
+  "posts": [],
+  "comments": [],
+  "conversations": [],
+  "messages": [],
+  "notifications": []
+}
